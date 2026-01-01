@@ -54,7 +54,7 @@ This project uses a  for easy compilation.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/alihussnain1122/smart-os-simulator.git
     cd os_simulator
     ```
 
@@ -86,3 +86,4 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 3.  Commit your changes (`git commit -m 'Add some feature'`).
 4.  Push to the branch (`git push origin feature/YourFeature`).
 5.  Open a Pull Request.
+
