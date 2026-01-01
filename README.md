@@ -2,15 +2,11 @@
 
 A comprehensive command-line-based simulator for various operating system concepts, implemented in C. This project provides a hands-on approach to understanding core OS functionalities.
 
-## ✨ Live Demo
+## 🚀 Features
 
-Below is a short animation demonstrating how to compile and run the OS Simulator and showcasing its features.
+This simulator# OS Simulator in C
 
-*<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Your+Animation+Here" alt="OS Simulator Demo"/>
-</p>*
-
-*(**To add your own animation:** Record a session using a tool like [asciinema](https://asciinema.org/) or a screen-to-GIF recorder, upload the GIF to your repository, and replace the placeholder URL above.)*
+A comprehensive command-line-based simulator for various operating system concepts, implemented in C. This project provides a hands-on approach to understanding core OS functionalities.
 
 ## 🚀 Features
 
@@ -54,7 +50,7 @@ The project is organized into modules, with each directory focusing on a specifi
 
 ## 🛠️ How to Compile and Run
 
-This project uses a `makefile` for easy compilation.
+This project uses a  for easy compilation.
 
 1.  **Clone the repository:**
     ```bash
@@ -73,7 +69,7 @@ This project uses a `makefile` for easy compilation.
     ```bash
     ./os_simulator
     ```
-    *(Note: The executable name may vary based on the `makefile` configuration.)*
+    *(Note: The executable name may vary based on the  configuration.)*
 
 ## 💡 Usage
 
@@ -90,7 +86,3 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 3.  Commit your changes (`git commit -m 'Add some feature'`).
 4.  Push to the branch (`git push origin feature/YourFeature`).
 5.  Open a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
